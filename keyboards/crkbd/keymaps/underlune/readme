@@ -7,5 +7,5 @@ his is a WORKMAN layout with custom mod placements and numpad on the lower layer
 RGB Matrix effects must be explicitly enabled in config.h
 
 ```
-make crkbd:jarred:avrdude
+make crkbd:underlune:avrdude
 ```
