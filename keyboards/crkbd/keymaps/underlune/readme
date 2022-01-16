@@ -1,0 +1,11 @@
+# underlune's CRKBD Layout
+
+Check out [user space readme](../../../../users/jarred/readme.md) for more info
+
+his is a WORKMAN layout with custom mod placements and numpad on the lower layer instead of number line. Includes LUNA the dog from HellTM's sofle build.
+
+RGB Matrix effects must be explicitly enabled in config.h
+
+```
+make crkbd:jarred:avrdude
+```
